@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="DevWeakApplication PRD" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <envs>
+      <env name="PGDATABASE" value="railway" />
+      <env name="PGHOST" value="postgres.railway.internal" />
+      <env name="PGPASSWORD" value="bhcVORWQsmHgdmCOQXaJEPLrVqbydtTN" />
+      <env name="PGPORT" value="5432" />
+      <env name="PGUSER" value="postgres" />
+      <env name="SPRING_PROFILES_ACTIVES" value="prd" />
+    </envs>
+    <module name="dev-weak.main" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="me.denk.dev_weak.DevWeakApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
