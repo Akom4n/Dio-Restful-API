@@ -3,7 +3,7 @@
     <envs>
       <env name="PGDATABASE" value="railway" />
       <env name="PGHOST" value="postgres.railway.internal" />
-      <env name="PGPASSWORD" value="bhcVORWQsmHgdmCOQXaJEPLrVqbydtTN" />
+      <env name="PGPASSWORD" value="DhupfLnmqLBhTQUqqOOMXrZkNUCwvYVr" />
       <env name="PGPORT" value="5432" />
       <env name="PGUSER" value="postgres" />
       <env name="SPRING_PROFILES_ACTIVES" value="prd" />
